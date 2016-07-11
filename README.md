@@ -1,2 +1,14 @@
-# equery
-Provide free, simple, continuously updated express query service 
+### 最好用的快递查询框架
+  Provide free, simple, continuously updated express query service.
+
+### 应对需求：
+  项目中做快递查询功能时,只能通过某100网站、某快递网站来进行统一的查询处理，这些网站提供的API接口在查询数量上有限制，查询数量多时要收费，且服务不是很稳定，遂开发此项目，来完成产品与各快递公司的统一查询接口处理。
+  
+### 特点：
+  * 开源、免费  
+  * 简单好用
+  * 自己部署，不用看别人服务器的脸色啦！
+  
+### 缺陷：
+  * 快递公司太多啦，所以如果您在使用过程中发现没有适配某个快递公司，欢迎您帮助完善此项目！
+  * 还未发现
